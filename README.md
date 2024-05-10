@@ -11,7 +11,7 @@ I'm a budding Software Engineer with a passion for learning and innovation. I am
 - 🌱 I’m currently learning Python 🐍 and its related frameworks (FastAPI and Django).
 - 😊 I’m looking for help with open-source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Python Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing sonedayan@gmail.com.
+- 📫 You can [view my portfolio](https://dayan-sone-portfolio.vercel.app/) and contact me by emailing sonedayan@gmail.com.
 
 ---
 
